@@ -1,0 +1,15 @@
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\bin\Debug\WpfGiris.exe.config
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\bin\Debug\WpfGiris.exe
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\bin\Debug\WpfGiris.pdb
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris.csprojAssemblyReference.cache
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\MainWindow.g.cs
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\App.g.cs
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris_MarkupCompile.cache
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris_MarkupCompile.lref
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\MainWindow.baml
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris.g.resources
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris.Properties.Resources.resources
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris.csproj.GenerateResource.cache
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris.csproj.CoreCompileInputs.cache
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris.exe
+C:\Users\Ozge\Desktop\Trials\WpfGiris\WpfGiris\obj\Debug\WpfGiris.pdb
